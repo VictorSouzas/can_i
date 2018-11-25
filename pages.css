@@ -1,0 +1,63 @@
+
+
+.legal_status {
+	font-size: 24px;
+	font-weight: bold;
+	line-height: 44px;
+	display: inline-block;
+	width: 100%;
+	float: left;
+	margin-top: 16px;
+}
+.content .boxes {
+	display: block;
+	width: 40%;
+	float: left;
+	line-height: 24px;
+	font-size: 16px;
+}
+
+.boxes{
+	margin-top: 24px;
+}
+
+.boxes h3 {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: #222;
+	margin-top: 8px;
+}
+
+.illegal {
+	color: #E70404;
+}
+
+.legal {
+	color: #00CA8D;
+}
+
+.specification {
+	display: block;
+	float: left;
+	line-height: 26px;
+	font-size: 18px;
+	color: #000000;
+}
+
+.warning {
+	font-weight: bold;
+}
+
+.description {
+	letter-spacing: 0.03em;
+	margin-top: 10px;
+	display: block;
+	float: left;
+	font-size: 16px;
+	color: #767676;
+}
+
+.location-drugs{
+	text-align: center;
+}
